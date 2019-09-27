@@ -129,6 +129,7 @@ def criptografia(txt):
 	movC0=0
 	movC1=0
 	movC2=0
+	#ROdolfo pirocudo 
 	for i in range(len(txt)):
 		entradaC0 = txt[i]
 		print("---------------Começo----------------")
